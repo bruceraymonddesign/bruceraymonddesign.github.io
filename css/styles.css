@@ -7355,7 +7355,7 @@ textarea.form-control-lg {
 }
 
 .mb-0 {
-  margin-bottom: 0 !important;
+  margin-bottom: 1 !important;
 }
 
 .mb-1 {
@@ -7375,7 +7375,7 @@ textarea.form-control-lg {
 }
 
 .mb-5 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 1rem !important;
 }
 
 .mb-auto {
@@ -7835,7 +7835,7 @@ textarea.form-control-lg {
 }
 
 .bg-light {
-  --bs-bg-opacity: 1;
+  --bs-bg-opacity: 0;
   background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
 }
 
@@ -11292,8 +11292,8 @@ html {
 }
 
 .content-section {
-  padding-top: 7.5rem;
-  padding-bottom: 7.5rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
 }
 
 .content-section-heading h2, .content-section-heading .h2 {
